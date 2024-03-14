@@ -1,4 +1,4 @@
-# NyBerMan-Bioinformatics_NGS-Internship_Project
+# NyBerMan Bioinformatics_NGS Internship_Project
 
 This is a mini project during the remote internship at NyBerMan Bioinformatics (2024) on NGS and WGS. 
 
